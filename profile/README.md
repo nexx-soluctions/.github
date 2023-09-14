@@ -7,7 +7,7 @@ Esse é um perfil de empresa criado destinado aos repositórios de projetos de A
 - **[Nexx](https://github.com/lobofoltran/nexx) (Sistema de Automação Comercial SaaS)**
   - Descrição: Sistema de automação comercial Web completo.
   - Tecnologias utilizadas: PHP, Laravel, Livewire, Alpine JS e FilamentPHP.
-  - Demo: [nexx.lobofoltran.com](https://nexx.lobofoltran.com)
+  - Demonstração: [nexx.lobofoltran.com](https://nexx.lobofoltran.com)
   - Conquistas/Contribuições:
     - Implementação completa de um sistema multiempresarial, multifilial e multimodular (SaaS) WEB.
    
